@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glpan-lab
-- 👀 I’m interested in audio signal processing machine learning and financial.
-- 🌱 I’m currently learning audio super resolution or bandwidth extension.
+- 👀 I’m interested in audio signal processing.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
